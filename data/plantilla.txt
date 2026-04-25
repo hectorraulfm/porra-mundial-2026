@@ -1,0 +1,100 @@
+🏆 PORRA MUNDIAL 2026 🏆
+========================
+
+📜 SISTEMA DE PUNTUACIÓN:
+- Fase de Grupos: 1 punto por cada acierto (1, X, 2).
+- Octavos de Final: 2 puntos por cada país acertado.
+- Cuartos de Final: 3 puntos por cada país acertado.
+- Semifinales: 4 puntos por cada país acertado.
+- Finalistas: 5 puntos por cada país acertado.
+- Campeón: 10 puntos por acertar el ganador.
+- Líder Goleador: 5 puntos.
+--------------------------------------------------
+
+NOMBRE: [TU NOMBRE]
+
+INSTRUCCIONES FASE GRUPOS:
+Escribe 1 (Local), X (Empate) o 2 (Visitante) después de los dos puntos.
+
+--- FASE DE GRUPOS ---
+Partid_001, México vs Sudáfrica: 
+Partid_002, Corea del Sur vs República Checa: 
+Partid_003, República Checa vs Sudáfrica: 
+Partid_004, México vs Corea del Sur: 
+Partid_005, República Checa vs México: 
+Partid_006, Sudáfrica vs Corea del Sur: 
+Partid_007, Canadá vs Bosnia y Herzegovina: 
+Partid_008, Catar vs Suiza: 
+Partid_009, Suiza vs Bosnia y Herzegovina: 
+Partid_010, Canadá vs Catar: 
+Partid_011, Suiza vs Canadá: 
+Partid_012, Bosnia y Herzegovina vs Catar: 
+Partid_013, Brasil vs Marruecos: 
+Partid_014, Haití vs Escocia: 
+Partid_015, Escocia vs Marruecos: 
+Partid_016, Brasil vs Haití: 
+Partid_017, Escocia vs Brasil: 
+Partid_018, Marruecos vs Haití: 
+Partid_019, EE.UU. vs Paraguay: 
+Partid_020, Australia vs Turquía: 
+Partid_021, EE.UU. vs Australia: 
+Partid_022, Turquía vs Paraguay: 
+Partid_023, Turquía vs EE.UU.: 
+Partid_024, Paraguay vs Australia: 
+Partid_025, Alemania vs Curazao: 
+Partid_026, Costa de Marfil vs Ecuador: 
+Partid_027, Alemania vs Costa de Marfil: 
+Partid_028, Ecuador vs Curazao: 
+Partid_029, Curazao vs Costa de Marfil: 
+Partid_030, Ecuador vs Alemania: 
+Partid_031, Países Bajos vs Japón: 
+Partid_032, Suecia vs Túnez: 
+Partid_033, Países Bajos vs Suecia: 
+Partid_034, Túnez vs Japón: 
+Partid_035, Japón vs Suecia: 
+Partid_036, Túnez vs Países Bajos: 
+Partid_037, Bélgica vs Egipto: 
+Partid_038, Irán vs Nueva Zelanda: 
+Partid_039, Bélgica vs Irán: 
+Partid_040, Nueva Zelanda vs Egipto: 
+Partid_041, Egipto vs Irán: 
+Partid_042, Nueva Zelanda vs Bélgica: 
+Partid_043, España vs Cabo Verde: 
+Partid_044, Arabia Saudí vs Uruguay: 
+Partid_045, España vs Arabia Saudí: 
+Partid_046, Uruguay vs Cabo Verde: 
+Partid_047, Cabo Verde vs Arabia Saudí: 
+Partid_048, Uruguay vs España: 
+Partid_049, Francia vs Senegal: 
+Partid_050, Irak vs Noruega: 
+Partid_051, Francia vs Irak: 
+Partid_052, Noruega vs Senegal: 
+Partid_053, Noruega vs Francia: 
+Partid_054, Senegal vs Irak: 
+Partid_055, Argentina vs Argelia: 
+Partid_056, Austria vs Jordania: 
+Partid_057, Argentina vs Austria: 
+Partid_058, Jordania vs Argelia: 
+Partid_059, Argelia vs Austria: 
+Partid_060, Jordania vs Argentina: 
+Partid_061, Portugal vs R.D. del Congo: 
+Partid_062, Uzbekistán vs Colombia: 
+Partid_063, Portugal vs Uzbekistán: 
+Partid_064, Colombia vs R.D. del Congo: 
+Partid_065, Colombia vs Portugal: 
+Partid_066, R.D. del Congo vs Uzbekistán: 
+Partid_067, Inglaterra vs Croacia: 
+Partid_068, Ghana vs Panamá: 
+Partid_069, Inglaterra vs Ghana: 
+Partid_070, Panamá vs Croacia: 
+Partid_071, Panamá vs Inglaterra: 
+Partid_072, Croacia vs Ghana: 
+
+--- FASE ELIMINATORIA (Escribe los países que clasifican) ---
+8vos (Escribe 16 países separados por comas): 
+4tos (Escribe 8 países separados por comas): 
+Semis (Escribe 4 países separados por comas): 
+Final (Escribe 2 países separados por comas): 
+CAMPEÓN: 
+
+LÍDER GOLEADOR: 

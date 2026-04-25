@@ -1,0 +1,85 @@
+RESULTADOS REALES DEL MUNDIAL 2026
+==================================
+
+--- FASE DE GRUPOS (Escribe 1, X o 2) ---
+Partid_001, Mexico vs South Africa: 1
+Partid_002, South Korea vs Czech Republic: 2
+Partid_003, Czech Republic vs South Africa: x
+Partid_004, Mexico vs South Korea: 
+Partid_005, Czech Republic vs Mexico: 
+Partid_006, South Africa vs South Korea: 
+Partid_007, Canada vs Bosnia & Herzegovina: 
+Partid_008, Qatar vs Switzerland: 
+Partid_009, Switzerland vs Bosnia & Herzegovina: 
+Partid_010, Canada vs Qatar: 
+Partid_011, Switzerland vs Canada: 
+Partid_012, Bosnia & Herzegovina vs Qatar: 
+Partid_013, Brazil vs Morocco: 
+Partid_014, Haiti vs Scotland: 
+Partid_015, Scotland vs Morocco: 
+Partid_016, Brazil vs Haiti: 
+Partid_017, Scotland vs Brazil: 
+Partid_018, Morocco vs Haiti: 
+Partid_019, USA vs Paraguay: 
+Partid_020, Australia vs Turkey: 
+Partid_021, USA vs Australia: 
+Partid_022, Turkey vs Paraguay: 
+Partid_023, Turkey vs USA: 
+Partid_024, Paraguay vs Australia: 
+Partid_025, Germany vs Curaçao: 
+Partid_026, Ivory Coast vs Ecuador: 
+Partid_027, Germany vs Ivory Coast: 
+Partid_028, Ecuador vs Curaçao: 
+Partid_029, Curaçao vs Ivory Coast: 
+Partid_030, Ecuador vs Germany: 
+Partid_031, Netherlands vs Japan: 
+Partid_032, Sweden vs Tunisia: 
+Partid_033, Netherlands vs Sweden: 
+Partid_034, Tunisia vs Japan: 
+Partid_035, Japan vs Sweden: 
+Partid_036, Tunisia vs Netherlands: 
+Partid_037, Belgium vs Egypt: 
+Partid_038, Iran vs New Zealand: 
+Partid_039, Belgium vs Iran: 
+Partid_040, New Zealand vs Egypt: 
+Partid_041, Egypt vs Iran: 
+Partid_042, New Zealand vs Belgium: 
+Partid_043, Spain vs Cape Verde: 
+Partid_044, Saudi Arabia vs Uruguay: 
+Partid_045, Spain vs Saudi Arabia: 
+Partid_046, Uruguay vs Cape Verde: 
+Partid_047, Cape Verde vs Saudi Arabia: 
+Partid_048, Uruguay vs Spain: 
+Partid_049, France vs Senegal: 
+Partid_050, Iraq vs Norway: 
+Partid_051, France vs Iraq: 
+Partid_052, Norway vs Senegal: 
+Partid_053, Norway vs France: 
+Partid_054, Senegal vs Iraq: 
+Partid_055, Argentina vs Algeria: 
+Partid_056, Austria vs Jordan: 
+Partid_057, Argentina vs Austria: 
+Partid_058, Jordan vs Algeria: 
+Partid_059, Algeria vs Austria: 
+Partid_060, Jordan vs Argentina: 
+Partid_061, Portugal vs DR Congo: 
+Partid_062, Uzbekistan vs Colombia: 
+Partid_063, Portugal vs Uzbekistan: 
+Partid_064, Colombia vs DR Congo: 
+Partid_065, Colombia vs Portugal: 
+Partid_066, DR Congo vs Uzbekistan: 
+Partid_067, England vs Croatia: 
+Partid_068, Ghana vs Panama: 
+Partid_069, England vs Ghana: 
+Partid_070, Panama vs Croatia: 
+Partid_071, Panama vs England: 
+Partid_072, Croatia vs Ghana: 
+
+--- FASE ELIMINATORIA (Escribe los países que clasificaron de verdad) ---
+8vos: Brasil, Alemania
+4tos: 
+Semis: 
+Final: 
+CAMPEÓN: 
+
+LÍDER GOLEADOR: 
